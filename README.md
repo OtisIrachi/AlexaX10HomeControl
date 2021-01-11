@@ -19,7 +19,7 @@ Library for ESP8266 and IR code Recording.
 See this project and IRrecvDemoOLED Folder if you wish to record your own IR codes for your Media Center.
 Place your recorded ir codes in "ircodes.h".
 
-To view Web Page Buttons, just type in your IP address in a browser.
+To view Web Page Buttons on a computer or smart phone, just type in your ESPAlexa IP address in a browser.
 
 See this project for X10 Transmit Library to send Commands to X10 PowerLine Module (PSC04) in "X10RCI" Folder.
 
