@@ -1,10 +1,10 @@
 # AlexaX10IR
 ***WEBSITE UNDER DEVELOPMENT***  STAY TUNED!
 
-X10 Control with Alexa. Send X10 and IR Commands with ESPAlexa and ESP8266
+Control X10 and IR devices using Alexa with voice commands, or remotely using a smart phone via a web page. 
 
 This is a simple Home and Media Center controller using an ESP8266 WiFi Module and
-an 0.96" oLED Display.
+an 0.96" oLED Display.  X10 commands are transmitted with the X10 PowerLine module.
 Several Libraries will need to be loaded to support this project:
 
 https://github.com/ThingPulse/esp8266-oled-ssd1306/
