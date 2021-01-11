@@ -19,6 +19,8 @@ Library for ESP8266 and IR code Recording.
 See this project and IRrecvDemoOLED Folder if you wish to record your own IR codes for your Media Center.
 Place your recorded ir codes in "ircodes.h".
 
+To view Web Page Buttons, just type in your IP address in a browser.
+
 See this project for X10 Transmit Library to send Commands to X10 PowerLine Module (PSC04) in "X10RCI" Folder.
 
 3D printer models are included if you need a box.  See "STL Files" Folder.
