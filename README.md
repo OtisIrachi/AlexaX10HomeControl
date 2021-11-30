@@ -25,4 +25,3 @@ See this project for X10 Transmit Library to send Commands to X10 PowerLine Modu
 
 3D printer models are included if you need a box.  See "STL Files" Folder.
 Schematics and pictures are also provided.
-google-site-verification: google5aafb1e7f34117b2.html
